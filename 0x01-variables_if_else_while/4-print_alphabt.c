@@ -9,7 +9,7 @@
  * Return: Always 0 (Success)
  */
 
-int maiv(void)
+int main(void)
 
 {
 	char low, e, q;
@@ -23,6 +23,7 @@ int maiv(void)
 	putchar(low);
 	}
 	putchar('\n');
+	
 	return (0);
 
 }
